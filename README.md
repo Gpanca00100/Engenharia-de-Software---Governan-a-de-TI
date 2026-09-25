@@ -1,1 +1,8 @@
-# Engenharia-de-Software---Governan-a-de-TI
+# Governan a de TI
+
+01/10 EAD3 PARTE 1 DA A2
+08/10 EAD3 PARTE 2 DA A2
+
+UNIDADE 3:
+08/10 A2 INÍCIO 
+15/10 A2 ENTREGAR 
